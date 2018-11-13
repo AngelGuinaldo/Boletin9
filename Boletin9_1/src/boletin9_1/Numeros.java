@@ -10,9 +10,7 @@ public class Numeros {
 
     Scanner ler = new Scanner(System.in);
     private int numero;
-//    private int negativos;
-//    private int positivos;
-//    private int ceros;
+
 
     public void ingresarNumeros() {
         int cont;
